@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**hadija1016/hadija1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer in training based in Pakistan, building real-world AI-powered apps using the Claude API, LangChain, and Python.
+Currently focused on:
 
-Here are some ideas to get you started:
+🤖 Building and deploying AI chatbots
+📄 RAG pipelines — Chat with PDF apps
+🔍 Vector search with ChromaDB
+🚀 Shipping fast, learning by building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Stack:
+Python · Claude API · LangChain · ChromaDB · Streamlit · GitHub
+What I'm building right now:
+AI Chatbot — deployed on Streamlit Cloud
+Chat with PDF — RAG-powered document assistant
+Hero Project — TBD (Week 3)
+Goal: Land a remote AI Engineer internship. Open to opportunities globally
