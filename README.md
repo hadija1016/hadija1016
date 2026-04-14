@@ -1,4 +1,4 @@
-## Hi I am Kadija 👋
+## Hi I am Khadija 👋
 
 I'm an AI Engineer in training based in Pakistan, building real-world AI-powered apps using the Claude API, LangChain, and Python.
 Currently focused on:
