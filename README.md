@@ -121,8 +121,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hadija1016&icon=0&color=6" alt="Profile Views"/>
+
   <br/><br/>
   <i>✨ "Building intelligent solutions, one model at a time." ✨</i>
 </div>
